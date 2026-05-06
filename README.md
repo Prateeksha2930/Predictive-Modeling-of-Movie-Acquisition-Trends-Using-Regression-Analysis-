@@ -17,7 +17,11 @@ Present findings as actionable, non-technical recommendations for business stake
 
 
 🛠️ Tech Stack
-CategoryToolsLanguagePython / RModelingLinear Regression (scikit-learn / base R lm())Data ProcessingPandas, NumPy / dplyrVisualizationMatplotlib, Seaborn / ggplot2Validation75/25 Train-Test Split, RMSE, R²
+Category         Tools
+Language         Python / R
+Modeling Linear  Regression (scikit-learn / base R lm())
+Data Processing  Pandas, NumPy / dplyr
+Visualization    Matplotlib, Seaborn / ggplot2Validation75/25 Train-Test Split, RMSE, R²
 
 📊 Dataset
 
